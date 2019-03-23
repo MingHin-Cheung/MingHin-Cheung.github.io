@@ -95,5 +95,5 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Email :[documentation](https://help.github.com/categories/github-pages-basics/)
-phone :[contact support](https://github.com/contact) and we’ll help you sort it out.
+[Email](minghincheung828@gmail.com)
+[Phone](6464004363) 
