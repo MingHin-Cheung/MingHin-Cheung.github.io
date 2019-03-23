@@ -90,7 +90,7 @@ Software \& Tools & MS Office, LaTeX, MATLAB \\
 \item Ability to work as an individual as well as in group.
 \end{rSection}
 \end{document}
-
+```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
