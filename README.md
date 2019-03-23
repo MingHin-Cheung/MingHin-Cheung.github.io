@@ -95,3 +95,5 @@ Software \& Tools & MS Office, LaTeX, MATLAB \\
 Email : Minghincheung828@gmail.com
 
 Phone : +16464004363 
+
+[LinkedIn](https://www.linkedin.com/in/minghincheung/)
