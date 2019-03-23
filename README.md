@@ -1,4 +1,4 @@
-## Welcome to my blog :+1:
+## Welcome to my blog 
 
 Hello. I am Ming and I am a sophomore studying Computer Science at CCNY. I am hoping to obtain an internship with a company which provides the opportunity to expand my knowledge as a Computer Science major. 
 
