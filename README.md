@@ -1,4 +1,4 @@
-## Welcome to my blog
+## Welcome to my blog :+1:
 
 Hello. I am Ming and I am a sophomore studying Computer Science at CCNY. I am hoping to obtain an internship with a company which provides the opportunity to expand my knowledge as a Computer Science major. 
 
@@ -95,5 +95,5 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-[Email](minghincheung828@gmail.com)
-[Phone](6464004363) 
+Email : Minghincheung828@gmail.com
+Phone : +16464004363 
