@@ -1,6 +1,5 @@
 ## Welcome to my Blog 
 
-Hello. I am Ming and I am a sophomore studying Computer Science at CCNY. I am hoping to obtain an internship with a company which provides the opportunity to expand my knowledge as a Computer Science major. 
 
 ### My LaTeX Résumé
 
@@ -16,7 +15,6 @@ Hello. I am Ming and I am a sophomore studying Computer Science at CCNY. I am ho
 \name{Ming Hin Cheung} %  name
 \address{\url{minghin-cheung.github.io}} %  address
 \address{Elmhurst, New York} % secondary addess 
-\address{(+1)646-400-4363 \\ minghincheung828@gmail.com } % phone number and email
 \begin{document}
 %----------------------------------------------------------------------------------------
 %	EDUCATION SECTION
@@ -90,10 +88,3 @@ Software \& Tools & MS Office, LaTeX, MATLAB \\
 \end{document}
 ```
 
-### Support or Contact
-
-Email : Minghincheung828@gmail.com
-
-Phone : +16464004363 
-
-[LinkedIn](https://www.linkedin.com/in/minghincheung/)
