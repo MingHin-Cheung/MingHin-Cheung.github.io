@@ -8,7 +8,7 @@ What I do in my free time:
 
 Building websites with Javascript
 
-Learning to code mobile apps and games
+Learning to build mobile apps and games
 
 Working on side ideas from time to time
 
